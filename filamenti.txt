@@ -1,0 +1,12 @@
+PLA deriva da mais costa poco, per prototipi, ad alte temperature può deformarsi, non resiste a luce del sole
+
+PETG resiste a liquidi
+
+ABS resiste ad alte temperature, non si usa su stampanti aperte, necessita di alta temperatura della camera, tossico
+
+TPU flessibile
+
+Filamento 1,75
+
+
+
