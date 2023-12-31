@@ -1,1 +1,4 @@
 programs.sway.enable = true;
+
+copiare file /etc/sway/config
+in /home/.config/sway/config
